@@ -2,3 +2,12 @@ body {
     font-family: sans-serif;
     color: grey;
 }
+header {
+    background-color: grey;
+}
+a {
+    color: red;
+}
+header nav a {
+    color: white;
+}
